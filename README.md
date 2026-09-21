@@ -4,7 +4,6 @@
     <meta name=”theme-color” content=”#09f”>
     <meta rel="icon" type="image/jpeg" href="..." />
     <title>Portfolio de Manuel</title>
-
     <style>
         body {
         background: rgb(118, 188, 201);
@@ -29,10 +28,6 @@
  <ul>
  <li class="">ESII</li>
  </ul>
-
- <img title="The Curse has been lifted" src="thecurse.png" alt="Have a good day" width="400" height="400" hidden />
-
-
 
 <aside>
  <header>
